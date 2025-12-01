@@ -31,7 +31,7 @@ git clone https://github.com/deveni0/profile-yousfv.git
 
 2. Open the folder:
 ```
-cd profile-website
+cd profile-yousfv
 ```
 
 3. Run the site:
