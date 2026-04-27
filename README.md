@@ -58,3 +58,5 @@ index.html
 
 ## 📜 License
 Free to use for personal and commercial projects.
+
+*</> VENi VII </>*
